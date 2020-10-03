@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdbool.h>
+
 #define ElemType char
 #define Initlength 100
 typedef struct{
